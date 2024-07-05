@@ -134,7 +134,9 @@ minus_button.addEventListener('click', function(){
     
 
 })
-let branch
+let branch;
+let git;
+console.log(0)
 
 
 
